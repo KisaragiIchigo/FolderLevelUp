@@ -1,5 +1,9 @@
 # FolderLevelUp ©️2025 KisaragiIchigo
 
+## Download
+
+[https://github.com/KisaragiIchigo/FolderLevelUp/releases/tag/v0.1.0]
+
 ## 概要
 **FolderLevelUp** は、指定した親フォルダ(A)配下のBフォルダ群について、  
 各B内のCフォルダ **「中身だけ」** をB直下に一括で移動させるツールです。  
