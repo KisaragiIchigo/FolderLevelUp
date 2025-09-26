@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --name FolderLevelUp --icon FolderLevelUp.ico FolderLevelUp.py
